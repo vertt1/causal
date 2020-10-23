@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.title('Causal loop diagrammer')
-st.sidebar.title("Add causality")
+st.sidebar.title("Add causality - WIP")
 source = st.sidebar.text_input('Source')
 target = st.sidebar.text_input('Target')
 polarity = st.sidebar.text_input('Polarity')
