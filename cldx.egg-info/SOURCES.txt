@@ -1,9 +1,0 @@
-README.md
-setup.py
-cldx/__init__.py
-cldx.egg-info/PKG-INFO
-cldx.egg-info/SOURCES.txt
-cldx.egg-info/dependency_links.txt
-cldx.egg-info/not-zip-safe
-cldx.egg-info/requires.txt
-cldx.egg-info/top_level.txt
