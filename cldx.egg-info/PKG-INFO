@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: cldx
+Version: 0.1
+Summary: Causal Loop Diagrams with networkx
+Home-page: http://github.com/fabid/cldx
+Author: Fabian Dubois
+Author-email: fabian.dubois@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
